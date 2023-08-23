@@ -1,0 +1,14 @@
+.ContainerErrou {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,60,121,1) 100%);
+    flex-direction: column;
+    gap: 2rem;
+}
+.TituloErrou {
+    font-size: 5rem;
+    color: white;
+}   

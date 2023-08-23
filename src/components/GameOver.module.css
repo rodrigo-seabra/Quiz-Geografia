@@ -1,0 +1,25 @@
+.ContainerOver{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,60,121,1) 100%);
+    flex-direction: column;
+    gap: 2rem;
+}
+.TextoOver{
+    font-size: 5rem;
+    font-weight: bolder;
+    color: #FAE127
+}
+.Score{
+    font-weight: bolder;
+    font-size: 2rem;
+    color: white;
+}
+.ScoreDados{
+    font-weight: bolder;
+    font-size: 1.2rem;
+    color: white;
+}

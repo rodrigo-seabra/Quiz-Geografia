@@ -1,0 +1,37 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+}
+.organizador {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 6rem;
+}
+.content video {
+        position: fixed;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+        width: 100%;
+}
+.content .organizador {
+    position: relative;
+    z-index: 1;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.organizador h2{
+    font-size: 7rem;
+    font-family: 'Inter', sans-serif;
+}
+.organizador p {
+    font-size: 2rem;
+    font-family: 'Inter', sans-serif;
+}

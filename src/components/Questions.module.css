@@ -1,0 +1,40 @@
+.conteiner{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,60,121,1) 100%);
+    color: white;
+}
+
+.content {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.NumeroPergunta{
+    font-size: 5rem;
+    font-weight: bolder;
+    color: #FAE127
+}
+.Pergunta {
+    font-size: 3rem;
+}
+.opcoes {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-evenly;
+}
+.opcoes div {
+    border: 5px solid black;
+    width: 20rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
