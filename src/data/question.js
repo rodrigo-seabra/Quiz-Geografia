@@ -66,11 +66,11 @@ const data = [
   {
     question:
       "Com base no desenvolvimento econômico da caatinga é errado afirmar que:",
-    options: ["O turismo é a única atividade econômica existente devido à impossibilidade do desenvolvimento da agricultura.",
+    options: ["O turismo é a única atividade econômica existente.",
      "A principal atividade econômica é a agropecuária.", 
      "Há grande dificuldade no desenvolvimento da agricultura devido a aridez da terra.", 
      "Predomina-se a irrigação artificial na região"],
-    answer: "O turismo é a única atividade econômica existente devido à impossibilidade do desenvolvimento da agricultura.",
+    answer: "O turismo é a única atividade econômica existente.",
   },
 
 
