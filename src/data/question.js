@@ -45,6 +45,34 @@ const data = [
      "Originário do Tupi Guarani e significa mata seca"],
     answer: "Índice pluviométrico Baixo na grande maioria das vezes(200 a 1000)",
   },
+  {
+    question:
+      "Qual dessas afirmativas caracteriza-se como exemplo de fauna da caatinga?",
+    options: ["sapo cururu",
+     "arara azul", 
+     "macaco aranha", 
+     "onça"],
+    answer: "sapo cururu",
+  },
+    {
+    question:
+      "Com base nos seus estudos sobre os aspectos socias da caatinga responda",
+    options: ["Possui pouco indicies de mortalidade infantil.",
+     "A escolaridade não é um problema da região", 
+     "A região enfrenta problemas sociais devido à baixa renda e escolaridade", 
+     "A região sofre poucos problemas sociais"],
+    answer: "A região enfrenta problemas sociais devido à baixa renda e escolaridade",
+  },
+  {
+    question:
+      "Com base no desenvolvimento econômico da caatinga é errado afirmar que:",
+    options: ["O turismo é a única atividade econômica existente devido à impossibilidade do desenvolvimento da agricultura.",
+     "A principal atividade econômica é a agropecuária.", 
+     "Há grande dificuldade no desenvolvimento da agricultura devido a aridez da terra.", 
+     "Predomina-se a irrigação artificial na região"],
+    answer: "O turismo é a única atividade econômica existente devido à impossibilidade do desenvolvimento da agricultura.",
+  },
+
 
 ];
 
